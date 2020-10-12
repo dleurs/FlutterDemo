@@ -1,6 +1,7 @@
 # Demo flutter app
 
 Demo flutter app with unit and widget tests, using proviger and ChangeNotifierProvider.
+
 Test push
 
 ![Demo app](/assets/demo-app.gif)
@@ -10,15 +11,15 @@ Test push
 git init
 git add -A
 git commit -m "first commit"
-git branch -M main
+// git branch -M main
 git remote add origin https://github.com/dleurs/todelete.git
-git push -u origin main
+git push -u origin master
 
 git remote add froggit git@lab.frogg.it:dleurs/flutterdemo.git
-git push -u origin main
+git push -u origin master
 
 // Do some mofidication
-git add -A; git commit -m "New title"; git push origin main; git push froggit main; 
+git add -A; git commit -m "New title"; git push origin master; git push froggit master; 
 
 // Not useful ?
 // git config --global user.name "DimXXXurs"
