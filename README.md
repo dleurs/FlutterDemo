@@ -2,8 +2,6 @@
 
 Demo flutter app with unit and widget tests, using proviger and ChangeNotifierProvider.
 
-Test push 4
-
 ![Demo app](/assets/demo-app.gif)
 
 ## Several git repos
