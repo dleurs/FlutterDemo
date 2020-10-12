@@ -1,8 +1,26 @@
-# unit_test
+# Demo flutter app
 
 Demo flutter app with unit and widget tests, using proviger and ChangeNotifierProvider.
 
 ![Demo app](/assets/demo-app.gif)
+
+## Several git repos
+
+git config --global user.name "Dimitri Leurs"
+git config --global user.email "dimitri.leurs@protonmail.com"
+
+
+git init
+git add -A
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dleurs/todelete.git
+git push -u origin main
+
+git remote add froggit git@lab.frogg.it:dleurs/flutterdemo.git
+git push -u origin main
+
+
 
 ## Getting Started
 
