@@ -19,11 +19,9 @@ git push -u origin main
 // Do some mofidication
 git add -A; git commit -m "New title"; git push origin main; git push froggit main; 
 
-```bash
 // Not useful ?
 // git config --global user.name "DimXXXurs"
 // git config --global user.email "dimitXXXcom"
-```
 ```
 ## Getting Started
 
