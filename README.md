@@ -5,11 +5,7 @@ Demo flutter app with unit and widget tests, using proviger and ChangeNotifierPr
 ![Demo app](/assets/demo-app.gif)
 
 ## Several git repos
-
-git config --global user.name "Dimitri Leurs"
-git config --global user.email "dimitri.leurs@protonmail.com"
-
-
+```bash
 git init
 git add -A
 git commit -m "first commit"
@@ -20,8 +16,15 @@ git push -u origin main
 git remote add froggit git@lab.frogg.it:dleurs/flutterdemo.git
 git push -u origin main
 
+// Do some mofidication
+git add -A; git commit -m "New title"; git push origin main; git push froggit main; 
 
-
+```bash
+// Not useful ?
+// git config --global user.name "DimXXXurs"
+// git config --global user.email "dimitXXXcom"
+```
+```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
